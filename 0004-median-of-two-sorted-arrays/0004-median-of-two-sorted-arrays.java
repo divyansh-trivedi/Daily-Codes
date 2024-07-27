@@ -1,25 +1,55 @@
-import java.util.*;
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        
+        int n1 = nums1.length;
+        int n2 = nums2.length;
 
-      int c=nums1.length + nums2. length;
-      int[] num= new int[c];
-      
-      for(int i=0;i<nums1.length;i++)
-      {
-        num[i]=nums1[i];
-    
-      }
-            for(int i=nums1.length, j=0;i<c;i++,j++)
-      {
-        num[i]=nums2[j];
-      }
-      Arrays.sort(num);
-     
-      if(c%2==0)
-     return (double)( num[(c/2)]+num[(c/2)-1] )/2;
-     else
-  return (double )num[(c/2)];
+        if (n1 == 0 && n2 == 0) return 0.0; // Handle the case where both arrays are empty
 
+        // Ensure nums1 is the smaller array to minimize binary search complexity
+        if (n1 > n2) return findMedianSortedArrays(nums2, nums1);
+
+        int low = 0;
+        int high = n1;
+        int left = (n1 + n2 + 1) / 2; // Midpoint for partitioning
+
+        while (low <= high) {
+            int mid1 = (low + high) >> 1;
+            int mid2 = left - mid1;
+
+            int l1 = (mid1 > 0) ? nums1[mid1 - 1] : Integer.MIN_VALUE;
+            int l2 = (mid2 > 0) ? nums2[mid2 - 1] : Integer.MIN_VALUE;
+            int r1 = (mid1 < n1) ? nums1[mid1] : Integer.MAX_VALUE;
+            int r2 = (mid2 < n2) ? nums2[mid2] : Integer.MAX_VALUE;
+
+            if (l1 <= r2 && l2 <= r1) {
+                if ((n1 + n2) % 2 == 0) {
+                    return (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
+                } else {
+                    return Math.max(l1, l2);
+                }
+            } else if (l1 > r2) {
+                high = mid1 - 1;
+            } else {
+                low = mid1 + 1;
+            }
+        }
+        
+        return 0.0; // This line should never be reached
+    }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        int[] nums1 = {1, 3};
+        int[] nums2 = {2};
+        System.out.println(solution.findMedianSortedArrays(nums1, nums2)); // Expected output: 2.0
+        
+        int[] nums1_empty = {};
+        int[] nums2_empty = {};
+        System.out.println(solution.findMedianSortedArrays(nums1_empty, nums2_empty)); // Expected output: 0.0
+
+        int[] nums1_nonempty = {};
+        int[] nums2_nonempty = {1};
+        System.out.println(solution.findMedianSortedArrays(nums1_nonempty, nums2_nonempty)); // Expected output: 1.0
     }
 }
