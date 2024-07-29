@@ -64,6 +64,7 @@ Created with :heart:
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -81,4 +82,8 @@ Created with :heart:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
