@@ -37,19 +37,4 @@ class Solution {
         
         return 0.0; // This line should never be reached
     }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[] nums1 = {1, 3};
-        int[] nums2 = {2};
-        System.out.println(solution.findMedianSortedArrays(nums1, nums2)); // Expected output: 2.0
-        
-        int[] nums1_empty = {};
-        int[] nums2_empty = {};
-        System.out.println(solution.findMedianSortedArrays(nums1_empty, nums2_empty)); // Expected output: 0.0
-
-        int[] nums1_nonempty = {};
-        int[] nums2_nonempty = {1};
-        System.out.println(solution.findMedianSortedArrays(nums1_nonempty, nums2_nonempty)); // Expected output: 1.0
-    }
 }
