@@ -17,6 +17,7 @@ Created with :heart:
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Hash Table
@@ -59,6 +60,7 @@ Created with :heart:
 | [0004-median-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Two Pointers
@@ -70,6 +72,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -91,4 +94,12 @@ Created with :heart:
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
