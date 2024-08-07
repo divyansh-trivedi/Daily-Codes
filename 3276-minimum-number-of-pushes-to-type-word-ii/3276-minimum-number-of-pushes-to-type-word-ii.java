@@ -14,6 +14,8 @@ class Solution {
         int ans = 0;
         int t = 0;
         int r = 1;
+
+        // ans 
         for (Map.Entry<Character, Integer> entry : entryList) {
             ans += entry.getValue() * r;
             t++;
