@@ -20,6 +20,7 @@ Created with :heart:
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -98,11 +99,13 @@ Created with :heart:
 | [0225-implement-stack-using-queues](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
