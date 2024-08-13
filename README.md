@@ -16,6 +16,7 @@ Created with :heart:
 | [0031-next-permutation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
@@ -42,6 +43,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0040-combination-sum-ii) |
 ## Matrix
 |  |
 | ------- |
