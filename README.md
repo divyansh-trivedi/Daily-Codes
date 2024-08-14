@@ -25,6 +25,7 @@ Created with :heart:
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -63,6 +64,7 @@ Created with :heart:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
@@ -89,6 +91,7 @@ Created with :heart:
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Two Pointers
 |  |
@@ -96,6 +99,7 @@ Created with :heart:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
