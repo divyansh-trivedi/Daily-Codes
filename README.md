@@ -38,6 +38,7 @@ Created with :heart:
 | ------- |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -74,6 +75,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
@@ -107,6 +109,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
+| [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Stack
@@ -183,6 +186,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0043-multiply-strings) |
+| [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 ## Simulation
 |  |
 | ------- |
