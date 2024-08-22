@@ -203,4 +203,8 @@ Created with :heart:
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
