@@ -1,38 +1,42 @@
 class Solution {
     public String nearestPalindromic(String n) {
-        int len = n.length();
-        long num = Long.parseLong(n);
-        long prefix = Long.parseLong(n.substring(0, (len + 1) / 2));
+        int index = n.length() / 2;
+        boolean even = n.length() % 2 == 0;
+        long leftPart = Long.parseLong(n.substring(0, index + (even ? 0 : 1))); // Adjusted index
 
-        // Generate possible candidates
-        List<Long> candidates = new ArrayList<>();
-        candidates.add(mirror(prefix, len % 2 == 0));
-        candidates.add(mirror(prefix + 1, len % 2 == 0));
-        candidates.add(mirror(prefix - 1, len % 2 == 0));
-        candidates.add((long) Math.pow(10, len - 1) - 1); // e.g., 999 for 1000
-        candidates.add((long) Math.pow(10, len) + 1);     // e.g., 10001 for 9999
+        // 5 cases
+        List<Long> cases = new ArrayList<>();
+        // converting ending digits to starting digits
+        cases.add(getPalindrome(leftPart, even));
+        // incrementing middle
+        cases.add(getPalindrome(leftPart + 1, even));
+        // decrementing middle
+        cases.add(getPalindrome(leftPart - 1, even));
+        // reduce digits by 1
+        cases.add((long) Math.pow(10, n.length() - 1) - 1);
+        // increase digits by 1
+        cases.add((long) Math.pow(10, n.length()) + 1);
 
-        // Find the closest palindrome
-        long closest = -1;
-        for (long candidate : candidates) {
-            if (candidate != num) {
-                if (closest == -1 ||
-                    Math.abs(candidate - num) < Math.abs(closest - num) ||
-                    (Math.abs(candidate - num) == Math.abs(closest - num) && candidate < closest)) {
-                    closest = candidate;
-                }
+        long result = 0, diff = Long.MAX_VALUE, num = Long.parseLong(n);
+        for (long c : cases) {
+            if (c == num) continue; // Skip if candidate is the same as the original number
+            long currDiff = Math.abs(num - c);
+            if (diff > currDiff || (diff == currDiff && c < result)) {
+                result = c;
+                diff = currDiff;
             }
         }
 
-        return String.valueOf(closest);
+        return String.valueOf(result);
     }
 
-    private long mirror(long prefix, boolean evenLength) {
-        String strPrefix = String.valueOf(prefix);
-        StringBuilder sb = new StringBuilder(strPrefix);
-        if (!evenLength) {
-            sb.deleteCharAt(sb.length() - 1);
+    private long getPalindrome(long leftPart, boolean even) {
+        long result = leftPart;
+        if (!even) leftPart /= 10; // Adjust if the length of the number is odd
+        while (leftPart > 0) {
+            result = result * 10 + (leftPart % 10);
+            leftPart /= 10;
         }
-        return Long.parseLong(strPrefix + sb.reverse().toString());
+        return result;
     }
 }
