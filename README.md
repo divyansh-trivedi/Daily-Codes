@@ -22,6 +22,7 @@ Created with :heart:
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
@@ -80,6 +81,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -177,6 +179,7 @@ Created with :heart:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
 | ------- |
@@ -215,4 +218,12 @@ Created with :heart:
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0476-number-complement) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
