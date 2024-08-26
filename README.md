@@ -132,6 +132,7 @@ Created with :heart:
 | [0232-implement-queue-using-stacks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -233,4 +235,5 @@ Created with :heart:
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
