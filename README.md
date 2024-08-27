@@ -13,6 +13,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
@@ -75,6 +76,7 @@ Created with :heart:
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -112,6 +114,7 @@ Created with :heart:
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
