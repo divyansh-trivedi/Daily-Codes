@@ -18,6 +18,7 @@ Created with :heart:
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0084-largest-rectangle-in-histogram) |
@@ -57,6 +58,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
 ## String
@@ -207,6 +209,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0048-rotate-image) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0592-fraction-addition-and-subtraction) |
