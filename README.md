@@ -25,6 +25,7 @@ Created with :heart:
 | [0084-largest-rectangle-in-histogram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
+| [0403-frog-jump](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
@@ -141,6 +142,7 @@ Created with :heart:
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0072-edit-distance) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
+| [0403-frog-jump](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0664-strange-printer) |
