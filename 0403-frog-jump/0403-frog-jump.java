@@ -1,42 +1,41 @@
+import java.util.*;
+
 class Solution {
-    HashMap<Integer, Integer> mark = new HashMap<>();
-    int dp[][] = new int[2001][2001];
-    
-    boolean solve(int[] stones, int n, int index, int prevJump) {
-        // If reached the last stone, return 1.
-        if (index == n - 1) {
+    public static boolean solve(int dp[][], int[] stones, Map<Integer, Integer> map, int curr_stone_idx,
+            int prev_jump) {
+        if (curr_stone_idx == stones.length - 1)
             return true;
-        }
-        
-        // If this subproblem has already been calculated, return it.
-        if (dp[index][prevJump] != -1) {
-            return dp[index][prevJump] == 1;
-        }
-        
-        boolean ans = false;
-        // Iterate over the three possibilities {k - 1, k, k + 1}.
-        for (int nextJump = prevJump - 1; nextJump <= prevJump + 1; nextJump++) {
-            if (nextJump > 0 && mark.containsKey(stones[index] + nextJump)) {
-                ans = ans || solve(stones, n, mark.get(stones[index] + nextJump), nextJump);
+
+        if (prev_jump < 0 || prev_jump >= dp[0].length)
+            return false;
+
+        if (dp[curr_stone_idx][prev_jump] != -1)
+            return dp[curr_stone_idx][prev_jump] == 1;
+
+        boolean flag = false;
+        for (int i = prev_jump - 1; i <= prev_jump + 1; i++) {
+
+            if (i > 0) {
+                int new_jump = stones[curr_stone_idx] + i;
+                if (map.containsKey(new_jump))
+                    flag = flag || solve(dp, stones, map, map.get(new_jump), i);
             }
         }
+        dp[curr_stone_idx][prev_jump] = (flag ? 1 : 0);
+        return flag;
+    }
 
-        // Store the result to fetch later.
-        dp[index][prevJump] = (ans ? 1 :0);
-        return ans;
+    public static boolean canCross(int[] stones) {
+        int dp[][] = new int[2001][2001];
+        for (int i[] : dp)
+            Arrays.fill(i, -1);
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < stones.length; i++)
+            map.put(stones[i], i);
+        if (stones.length <= 1 || stones[1] != 1)
+            return false;
+        return solve(dp, stones, map, 0, 0);
     }
-    
-    public boolean canCross(int[] stones) {
-        // Mark stones in the map to identify if such stone exists or not.
-        for (int i = 0 ; i < stones.length; i++) {
-            mark.put(stones[i], i);
-        }
-        
-        //Mark all states as -1 to denote they're not calculated.
-        for (int i = 0; i < 2000; i++) {
-            Arrays.fill(dp[i], -1);
-        }
-        
-        return solve(stones, stones.length, 0, 0);
-    }
-}//TC:O(n^2),SC:O(n^2)
+
+ 
+}
