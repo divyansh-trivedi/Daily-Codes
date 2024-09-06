@@ -44,6 +44,7 @@ Created with :heart:
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2591-frog-jump-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2591-frog-jump-ii) |
 | [2727-number-of-senior-citizens](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -129,6 +130,7 @@ Created with :heart:
 | [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2591-frog-jump-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2591-frog-jump-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Created with :heart:
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0890-lemonade-change) |
+| [2591-frog-jump-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2591-frog-jump-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
