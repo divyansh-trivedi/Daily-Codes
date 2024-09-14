@@ -51,6 +51,7 @@ Created with :heart:
 | [2155-find-missing-observations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2591-frog-jump-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2591-frog-jump-ii) |
 | [2727-number-of-senior-citizens](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -298,6 +299,7 @@ Created with :heart:
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sliding Window
 |  |
 | ------- |
@@ -340,4 +342,8 @@ Created with :heart:
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
