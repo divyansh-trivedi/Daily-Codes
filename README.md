@@ -25,6 +25,7 @@ Created with :heart:
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
@@ -95,6 +96,7 @@ Created with :heart:
 | [0010-regular-expression-matching](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0072-edit-distance) |
+| [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0564-find-the-closest-palindrome) |
@@ -112,6 +114,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0018-4sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0018-4sum) |
+| [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0539-minimum-time-difference) |
@@ -223,6 +226,7 @@ Created with :heart:
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0890-lemonade-change) |
