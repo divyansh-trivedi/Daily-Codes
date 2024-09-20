@@ -38,6 +38,7 @@ Created with :heart:
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0817-design-hashmap](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
@@ -66,6 +67,7 @@ Created with :heart:
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
+| [0817-design-hashmap](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -216,6 +218,7 @@ Created with :heart:
 | [0142-linked-list-cycle-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0725-split-linked-list-in-parts) |
+| [0817-design-hashmap](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -253,6 +256,7 @@ Created with :heart:
 | [0225-implement-stack-using-queues](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -369,4 +373,8 @@ Created with :heart:
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
