@@ -29,6 +29,7 @@ Created with :heart:
 | [0198-house-robber](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
 | [0403-frog-jump](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
@@ -243,6 +244,7 @@ Created with :heart:
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
