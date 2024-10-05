@@ -1,15 +1,15 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int[] arr = new int[26];
-        for(char c : s1.toCharArray()) arr[c - 'a']++;
-        int j = 0, i = 0;
-        int count= s1.length();
-        while(j < s2.length()){
-            if(arr[s2.charAt(j++) - 'a']-- > 0)
-                count--;
-            if(count == 0) return true;
-            if(j - i == s1.length() && arr[s2.charAt(i++) - 'a']++ >= 0)
-                count++;
+        char c1[] = s1.toCharArray();
+        Arrays.sort(c1);
+        String str1 = new String(c1);
+        int len = c1.length;
+        for (int i = 0; i <= s2.length() - len; i++) {
+            char c2[] = s2.substring(i, i + len).toCharArray();
+            Arrays.sort(c2);
+            String str2 = new String(c2);
+            if (str1.equals(str2))
+                return true;
         }
         return false;
     }
