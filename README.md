@@ -145,6 +145,7 @@ Created with :heart:
 | [1923-sentence-similarity-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2580-circular-sentence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
