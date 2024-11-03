@@ -137,6 +137,7 @@ Created with :heart:
 | [0567-permutation-in-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -461,6 +462,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
