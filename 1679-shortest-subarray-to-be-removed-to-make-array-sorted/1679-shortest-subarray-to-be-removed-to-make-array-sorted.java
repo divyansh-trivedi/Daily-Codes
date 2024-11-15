@@ -21,7 +21,6 @@ class Solution {
             } else 
                 j++; 
         }  
-
-        return n - ans;  
+    return n - ans;  
     }  
 }
