@@ -1,20 +1,16 @@
 class Solution {
+    public int solve(int ar[], int i, int k){
+        for(int j=0;j<k-1;j++){
+          if(ar[i+j]!=ar[i+j+1]-1)return -1;
+        }
+
+        return ar[i+k-1];
+    }
     public int[] resultsArray(int[] nums, int k) {
         int n=nums.length;
-        int ar[]= new int[n-k+1];
+        int ar[]= new int [n-k+1];
         for(int i=0;i<=n-k;i++){
-            int c=0;
-            int ele=nums[i + k - 1];;
-            for(int j=0;j<k-1;j++){
-                if(nums[i+j]+1!=nums[i+j+1]){
-           c++;
-           ele=-1;
-           break;
-                }
-              
-            }
-            ar[i]=ele;
-
+            ar[i]=solve(nums,i,k);
         }
         return ar;
     }
