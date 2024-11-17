@@ -27,6 +27,7 @@ Created with :heart:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0238-product-of-array-except-self) |
@@ -213,6 +214,7 @@ Created with :heart:
 | [0004-median-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -330,6 +332,7 @@ Created with :heart:
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
@@ -436,6 +439,7 @@ Created with :heart:
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0567-permutation-in-string) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
