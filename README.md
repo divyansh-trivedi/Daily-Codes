@@ -156,6 +156,7 @@ Created with :heart:
 | [0920-uncommon-words-from-two-sentences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1304-longest-happy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1923-sentence-similarity-iii) |
@@ -194,6 +195,7 @@ Created with :heart:
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1304-longest-happy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
@@ -329,6 +331,7 @@ Created with :heart:
 | [0435-non-overlapping-intervals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0890-lemonade-change) |
+| [1304-longest-happy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2591-frog-jump-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2591-frog-jump-ii) |
 | [2716-prime-subtraction-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2716-prime-subtraction-operation) |
