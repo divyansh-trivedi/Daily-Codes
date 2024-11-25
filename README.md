@@ -44,6 +44,7 @@ Created with :heart:
 | [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
 | [0817-design-hashmap](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0890-lemonade-change) |
@@ -142,6 +143,7 @@ Created with :heart:
 | [0064-minimum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1972-rotating-the-box) |
@@ -514,6 +516,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
