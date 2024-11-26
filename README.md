@@ -512,6 +512,7 @@ Created with :heart:
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3189-find-champion-ii) |
 ## Shortest Path
 |  |
 | ------- |
