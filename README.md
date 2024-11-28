@@ -421,6 +421,7 @@ Created with :heart:
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -433,6 +434,7 @@ Created with :heart:
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
@@ -530,6 +532,7 @@ Created with :heart:
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
