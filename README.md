@@ -18,6 +18,7 @@ Created with :heart:
 | [0033-search-in-rotated-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0064-minimum-path-sum) |
@@ -102,6 +103,7 @@ Created with :heart:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0146-lru-cache) |
