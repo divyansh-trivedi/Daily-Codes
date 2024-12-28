@@ -43,6 +43,7 @@ Created with :heart:
 | [0539-minimum-time-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0624-maximum-distance-in-arrays) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
@@ -334,6 +335,7 @@ Created with :heart:
 | [0435-non-overlapping-intervals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
