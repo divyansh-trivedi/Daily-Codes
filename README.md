@@ -54,6 +54,7 @@ Created with :heart:
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0906-walking-robot-simulation) |
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [1025-minimum-cost-for-tickets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
@@ -337,6 +338,7 @@ Created with :heart:
 | [0664-strange-printer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [1025-minimum-cost-for-tickets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
