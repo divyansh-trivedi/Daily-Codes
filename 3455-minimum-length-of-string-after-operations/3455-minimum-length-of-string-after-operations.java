@@ -1,17 +1,16 @@
 class Solution {
     public int minimumLength(String s) {
-        int[] f = new int[26]; 
-        int count = 0; 
-
-        for (int i = 0; i < s.length(); i++) {
-            int n = s.charAt(i) - 'a'; 
-            f[n]++; 
-
-           
-            if (f[n] > 2 && f[n] % 2 == 1) {
-                count += 2;
-            }
-        }
-        return s.length() - count;
+       int ar[] = new int[26];
+       for(int i=0;i<s.length();i++){
+        ar[s.charAt(i)-'a']++;
+       }
+       int c = 0;
+       for(int i=0;i<26;i++){
+           if(ar[i]>=3){
+            if(ar[i]%2==0) c+= (ar[i]-2);
+            else c+= (ar[i]-1);
+           }
+       }
+       return s.length()-c;
     }
 }
