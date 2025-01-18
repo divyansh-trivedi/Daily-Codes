@@ -63,6 +63,7 @@ Created with :heart:
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -178,6 +179,7 @@ Created with :heart:
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2089-maximum-matrix-sum) |
@@ -271,6 +273,7 @@ Created with :heart:
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -610,6 +613,7 @@ Created with :heart:
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3189-find-champion-ii) |
@@ -617,6 +621,7 @@ Created with :heart:
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
 ## Breadth-First Search
@@ -627,6 +632,7 @@ Created with :heart:
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Union Find
