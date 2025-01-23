@@ -62,6 +62,7 @@ Created with :heart:
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
+| [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -184,6 +185,7 @@ Created with :heart:
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1972-rotating-the-box) |
@@ -295,6 +297,7 @@ Created with :heart:
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -615,6 +618,7 @@ Created with :heart:
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 ## Graph
@@ -640,6 +644,7 @@ Created with :heart:
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1876-map-of-highest-peak) |
@@ -648,6 +653,7 @@ Created with :heart:
 ## Union Find
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 ## Combinatorics
 |  |
