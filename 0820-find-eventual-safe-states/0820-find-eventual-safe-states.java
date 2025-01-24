@@ -3,30 +3,37 @@ import java.util.*;
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int n = graph.length;
-        List<List<Integer>> reverseGraph = new ArrayList<>();
-        int[] outdegree = new int[n];
-        Queue<Integer> queue = new LinkedList<>();
-        List<Integer> safeNodes = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) reverseGraph.add(new ArrayList<>());
+        Set<Integer> safeNodes = new HashSet<>();
+        List<Integer> result = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            for (int neighbor : graph[i]) {
-                reverseGraph.get(neighbor).add(i);
-            }
-            outdegree[i] = graph[i].length;
-            if (outdegree[i] == 0) queue.add(i);
-        }
-
-        while (!queue.isEmpty()) {
-            int node = queue.poll();
-            safeNodes.add(node);
-            for (int prev : reverseGraph.get(node)) {
-                if (--outdegree[prev] == 0) queue.add(prev);
+            if (graph[i].length == 0) {
+                safeNodes.add(i);
             }
         }
 
-        Collections.sort(safeNodes);
-        return safeNodes;
+        boolean changed;
+        do {
+            changed = false;
+            for (int i = 0; i < n; i++) {
+                if (!safeNodes.contains(i)) {
+                    boolean isSafe = true;
+                    for (int neighbor : graph[i]) {
+                        if (!safeNodes.contains(neighbor)) {
+                            isSafe = false;
+                            break;
+                        }
+                    }
+                    if (isSafe) {
+                        safeNodes.add(i);
+                        changed = true;
+                    }
+                }
+            }
+        } while (changed);
+
+        result.addAll(safeNodes);
+        Collections.sort(result);
+        return result;
     }
 }
