@@ -623,6 +623,7 @@ Created with :heart:
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
@@ -630,6 +631,7 @@ Created with :heart:
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3189-find-champion-ii) |
@@ -652,6 +654,7 @@ Created with :heart:
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -722,4 +725,5 @@ Created with :heart:
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
