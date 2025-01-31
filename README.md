@@ -631,6 +631,7 @@ Created with :heart:
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Graph
 |  |
 | ------- |
@@ -638,6 +639,7 @@ Created with :heart:
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
@@ -737,4 +739,5 @@ Created with :heart:
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
