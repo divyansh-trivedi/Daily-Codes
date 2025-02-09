@@ -13,6 +13,6 @@ class Solution {
                 map.put(k,1);
             }
         }
-        return n*(n-1)/-c;
+        return n*(n-1)/2-c;
     }
 }
