@@ -263,6 +263,7 @@ Created with :heart:
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
@@ -428,6 +429,7 @@ Created with :heart:
 | [1497-design-a-stack-with-increment-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -595,6 +597,7 @@ Created with :heart:
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3447-clear-digits) |
 ## Game Theory
 |  |
 | ------- |
