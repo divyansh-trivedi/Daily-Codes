@@ -126,6 +126,7 @@ Created with :heart:
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3427-special-array-ii) |
@@ -314,6 +315,7 @@ Created with :heart:
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -603,6 +605,7 @@ Created with :heart:
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3447-clear-digits) |
 ## Game Theory
