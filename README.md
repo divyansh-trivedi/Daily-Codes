@@ -94,6 +94,7 @@ Created with :heart:
 | [2145-grid-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2155-find-missing-observations) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -360,6 +361,7 @@ Created with :heart:
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -387,6 +389,7 @@ Created with :heart:
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1972-rotating-the-box) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -418,6 +421,7 @@ Created with :heart:
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2562-count-ways-to-build-good-strings) |
@@ -631,6 +635,7 @@ Created with :heart:
 | [1786-count-the-number-of-consistent-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -775,6 +780,7 @@ Created with :heart:
 | ------- |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
@@ -786,4 +792,8 @@ Created with :heart:
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
