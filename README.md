@@ -227,6 +227,7 @@ Created with :heart:
 | [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0402-remove-k-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0564-find-the-closest-palindrome) |
@@ -430,6 +431,7 @@ Created with :heart:
 | [0155-min-stack](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -444,6 +446,7 @@ Created with :heart:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0937-online-stock-span) |
@@ -481,6 +484,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0624-maximum-distance-in-arrays) |
