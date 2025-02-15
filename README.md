@@ -67,6 +67,7 @@ Created with :heart:
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1524-string-matching-in-an-array) |
@@ -516,6 +517,7 @@ Created with :heart:
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -543,6 +545,7 @@ Created with :heart:
 | [0817-design-hashmap](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2434-design-a-number-container-system) |
 ## Queue
@@ -584,6 +587,7 @@ Created with :heart:
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
 ## Math
 |  |
 | ------- |
@@ -598,6 +602,7 @@ Created with :heart:
 | [0592-fraction-addition-and-subtraction](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2448-count-number-of-bad-pairs) |
