@@ -252,6 +252,7 @@ Created with :heart:
 | [0812-rotate-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0952-word-subsets) |
+| [1170-shortest-common-supersequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1304-longest-happy-string) |
@@ -434,6 +435,7 @@ Created with :heart:
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1025-minimum-cost-for-tickets) |
+| [1170-shortest-common-supersequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1559-cherry-pickup-ii) |
