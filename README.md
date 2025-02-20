@@ -512,6 +512,7 @@ Created with :heart:
 | [0010-regular-expression-matching](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0326-power-of-three) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
@@ -625,6 +626,7 @@ Created with :heart:
 | [0070-climbing-stairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0592-fraction-addition-and-subtraction) |
