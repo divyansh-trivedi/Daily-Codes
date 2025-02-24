@@ -84,6 +84,7 @@ Created with :heart:
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1559-cherry-pickup-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1755-defuse-the-bomb) |
@@ -307,6 +308,7 @@ Created with :heart:
 | [1256-rank-transform-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -452,6 +454,7 @@ Created with :heart:
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
