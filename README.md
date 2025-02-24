@@ -39,6 +39,7 @@ Created with :heart:
 | [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0403-frog-jump) |
@@ -437,6 +438,7 @@ Created with :heart:
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
