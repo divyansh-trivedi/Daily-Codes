@@ -1,61 +1,59 @@
 class Solution {
     class Pair{
-        int row;
-        int col;
-        int time;
-        Pair(int r, int c, int t){
-            row=r;
-            col=c;
-            time=t;
+        int row ;
+        int col; int time;
+        Pair(int r, int c , int t){
+            row = r; col=c ; time =t;
         }
     }
     public int orangesRotting(int[][] grid) {
-        int n=grid.length;
-        int m=grid[0].length;
+        int n= grid.length;
+        int m= grid[0].length;
 
-        Queue<Pair> q= new  LinkedList<>();
-        int visited[][]=  new int[n][m];
-        int cntFresh=0;
+        Queue<Pair> q = new LinkedList<>();
+        int vis[][] = new int[n][m];
+        
+        int cntFresh =0 ;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
+                if(grid[i][j] == 2){
                     q.add(new Pair(i,j,0));
-                    visited[i][j]=2;
-                }else
-                visited[i][j]=0;
+                    vis[i][j] =2;
+                }else 
+                    vis[i][j]=0;
 
-                if(grid[i][j]==1)cntFresh++;
+                if(grid[i][j]==1)
+                    cntFresh++;
             }
         }
 
-        int max=0;
-        int drow[]={-1,0,+1,0};
-        int dcol[]={0,1,0,-1};
-        int cnt=0;
+        int time =0;
+        int dr[] = {-1,0,1,0};
+        int dc[] = {0,1,0,-1};
 
+            int cnt =0;
         while(!q.isEmpty()){
-            Pair rem= q.remove();
-          int   r=rem.row;
-           int  c=rem.col;
-            int t=rem.time;
-            max=Math.max(max,t);
+            Pair rem = q.poll();
+            int r = rem.row;
+            int c = rem.col;
+            int t = rem.time;
 
-            for(int i=0;i<4;i++){
+            time = Math.max(t, time);
 
-                int nrow=r+drow[i];
-                int ncol=c+dcol[i];
+            for(int k=0;k<4;k++){
+                int newRow = dr[k] + r;
+                int newCol = dc[k] + c;
 
-      if(nrow>=0 && nrow<n&&ncol>=0 && ncol<m && visited[nrow][ncol]==0 && grid[nrow][ncol]==1){
-                q.add(new Pair(nrow,ncol,t+1));
-                visited[nrow][ncol] = 2;
-                cnt++;
-              }
-
+                if(newRow < 0|| newRow >= n || newCol <0 || newCol >= m)continue;
+                if(grid[newRow][newCol] == 1 && vis[newRow][newCol] != 2){
+                    q.add(new Pair(newRow, newCol , t +1));
+                    vis[newRow][newCol] = 2;
+                    cnt++;
+                }
             }
         }
-            if(cnt!=cntFresh)return -1;
-            return max;
-        
 
+        if(cntFresh != cnt)return -1;
+        return time;
     }
 }
