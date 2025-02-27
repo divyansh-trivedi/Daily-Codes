@@ -73,6 +73,7 @@ Created with :heart:
 | [0967-minimum-falling-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
@@ -230,6 +231,7 @@ Created with :heart:
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -739,6 +741,7 @@ Created with :heart:
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
+| [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
@@ -779,6 +782,7 @@ Created with :heart:
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -794,6 +798,7 @@ Created with :heart:
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
+| [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
