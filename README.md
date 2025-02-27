@@ -739,6 +739,7 @@ Created with :heart:
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
@@ -751,6 +752,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -778,6 +780,7 @@ Created with :heart:
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -797,6 +800,7 @@ Created with :heart:
 | [0130-surrounded-regions](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
