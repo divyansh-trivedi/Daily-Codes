@@ -735,6 +735,7 @@ Created with :heart:
 | [0130-surrounded-regions](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -751,6 +752,7 @@ Created with :heart:
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
@@ -774,6 +776,7 @@ Created with :heart:
 | ------- |
 | [0130-surrounded-regions](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0542-01-matrix) |
@@ -870,6 +873,7 @@ Created with :heart:
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
