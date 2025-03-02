@@ -750,6 +750,7 @@ Created with :heart:
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
