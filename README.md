@@ -119,6 +119,7 @@ Created with :heart:
 | [2179-most-beautiful-item-for-each-query](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2358-number-of-ways-to-split-array) |
@@ -429,6 +430,7 @@ Created with :heart:
 | [1972-rotating-the-box](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1972-rotating-the-box) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -686,6 +688,7 @@ Created with :heart:
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2551-apply-operations-to-an-array) |
