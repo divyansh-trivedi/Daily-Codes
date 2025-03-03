@@ -136,6 +136,7 @@ Created with :heart:
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2727-number-of-senior-citizens) |
@@ -197,6 +198,7 @@ Created with :heart:
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -428,6 +430,7 @@ Created with :heart:
 | [2414-move-pieces-to-obtain-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
 |  |
