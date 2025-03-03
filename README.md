@@ -163,6 +163,7 @@ Created with :heart:
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
@@ -258,6 +259,7 @@ Created with :heart:
 | [0043-multiply-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0214-shortest-palindrome) |
@@ -783,6 +785,7 @@ Created with :heart:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0207-course-schedule) |
