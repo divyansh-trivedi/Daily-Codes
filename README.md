@@ -94,6 +94,7 @@ Created with :heart:
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1694-make-sum-divisible-by-p) |
+| [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -243,6 +244,7 @@ Created with :heart:
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1559-cherry-pickup-ii) |
+| [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
@@ -353,6 +355,7 @@ Created with :heart:
 | [1304-longest-happy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2434-design-a-number-container-system](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2434-design-a-number-container-system) |
@@ -399,6 +402,7 @@ Created with :heart:
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -763,6 +767,7 @@ Created with :heart:
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -814,6 +819,7 @@ Created with :heart:
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -828,6 +834,7 @@ Created with :heart:
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
