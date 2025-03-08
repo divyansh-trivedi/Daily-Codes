@@ -304,6 +304,7 @@ Created with :heart:
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -743,6 +744,7 @@ Created with :heart:
 | [0567-permutation-in-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
