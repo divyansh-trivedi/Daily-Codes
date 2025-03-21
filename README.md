@@ -81,6 +81,7 @@ Created with :heart:
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
+| [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1364-tuple-with-same-product](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
@@ -413,6 +414,7 @@ Created with :heart:
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
@@ -601,6 +603,7 @@ Created with :heart:
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
+| [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
@@ -694,6 +697,7 @@ Created with :heart:
 | [0592-fraction-addition-and-subtraction](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
+| [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
