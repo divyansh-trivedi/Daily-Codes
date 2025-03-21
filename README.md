@@ -185,6 +185,7 @@ Created with :heart:
 | [0906-walking-robot-simulation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0952-word-subsets) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1364-tuple-with-same-product) |
@@ -796,6 +797,7 @@ Created with :heart:
 | [0803-cheapest-flights-within-k-stops](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -814,6 +816,7 @@ Created with :heart:
 | [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -878,6 +881,7 @@ Created with :heart:
 | [0721-accounts-merge](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1442-number-of-operations-to-make-network-connected) |
