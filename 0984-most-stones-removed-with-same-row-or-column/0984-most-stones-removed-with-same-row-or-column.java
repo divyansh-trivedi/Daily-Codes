@@ -1,32 +1,59 @@
+class Disjoint {
+    List<Integer> size = new ArrayList<>(), parent = new ArrayList<>();
+
+    public Disjoint(int n) {
+        for (int i = 0; i < n; i++) {
+            size.add(1);
+            parent.add(i);
+        }
+    }
+
+    public int findParent(int node) {
+        if (node == parent.get(node)) return node;
+        parent.set(node, findParent(parent.get(node)));
+        return parent.get(node);
+    }
+
+    public void unionBySize(int u, int v) {
+        int pu = findParent(u), pv = findParent(v);
+        if (pu != pv) {
+            if (size.get(pu) < size.get(pv)) {
+                parent.set(pu, pv);
+                size.set(pv, size.get(pu) + size.get(pv));
+            } else {
+                parent.set(pv, pu);
+                size.set(pu, size.get(pu) + size.get(pv));
+            }
+        }
+    }
+}
+
 class Solution {
-
-    int islands = 0;
-    Map<Integer, Integer> map = new HashMap<>();
-
-    private int find(int stone) {
-        if (map.putIfAbsent(stone, stone) == null) {
-            islands++;
-        }
-
-        if (map.get(stone) != stone) {
-            map.put(stone, find(map.get(stone)));
-        }
-        return map.get(stone);
-    }
-
-    private void union(int stone1, int stone2) {
-        stone1 = find(stone1);
-        stone2 = find(stone2);
-        if (stone1 != stone2) {
-            map.put(stone1, stone2);
-            islands--;
-        }
-    }
-
     public int removeStones(int[][] stones) {
-        for (int i = 0; i < stones.length; i++) {
-            union(stones[i][0], ~stones[i][1]);
+        int n= stones.length;
+        int row = 0 , col = 0;
+        for(int[] i: stones){
+            row = Math.max(row, i[0]);
+            col = Math.max(col , i[1]);
         }
-        return stones.length - islands;
+        Disjoint ds = new Disjoint(row+col+2);
+
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i=0;i<n;i++){
+            int nodeRow = stones[i][0];
+            int nodeCol = stones[i][1] + row + 1;
+
+            ds.unionBySize(nodeRow, nodeCol);
+
+            map.put(nodeRow,1);
+            map.put(nodeCol,1);
+        }
+
+        int cnt = 0;
+        for(Map.Entry<Integer, Integer> it : map.entrySet()){
+            int key = it.getKey();
+            if(ds.findParent(key) == key)cnt++;
+        }
+        return n - cnt;
     }
 }
