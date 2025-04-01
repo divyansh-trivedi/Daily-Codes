@@ -1,19 +1,30 @@
 class Solution {
-    public int solve(int nums[], int target, int idx, int sum){
-        if(idx>=nums.length){
-            if(sum==target)
-            return 1;
-            else 
-            return 0;
+    public int findWays(int[] nums, int target){
+        int n = nums.length;
+        int dp[][] = new int[n][target+1];
+
+        if(nums[0] == 0)dp[0][0] = 2;
+        else dp[0][0] = 1;
+
+        if(nums[0] !=0 && nums[0] <= target)dp[0][nums[0]] = 1;
+
+        for(int i=1;i<n;i++){
+            for(int j=0;j<=target;j++){
+                int nt = dp[i-1][j];
+
+                int t = 0;
+                if(nums[i]<=j)
+                t = dp[i-1][j - nums[i]];
+
+                dp[i][j] = nt + t;
+            }
         }
-
-        int plus = solve(nums, target, idx+1, sum+nums[idx]);
-        int minus = solve(nums, target, idx+1, sum+nums[idx]*-1);
-
-        return plus + minus;
+        return dp[n-1][target];
     }
     public int findTargetSumWays(int[] nums, int target) {
-        return solve(nums, target,0,0);
-
+        int ts = Arrays.stream(nums).sum();
+        if(ts - target < 0 || (ts - target)%2 == 1)return 0;
+       return findWays(nums, (ts - target)/2);
+        
     }
 }
