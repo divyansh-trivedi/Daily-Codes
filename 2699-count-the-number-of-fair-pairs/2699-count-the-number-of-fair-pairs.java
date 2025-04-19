@@ -8,7 +8,7 @@ class Solution {
         long countPairsWithin = 0;
         long countPairsBelow = 0;
 
-        // Count pairs with sum <= upper
+    
         int left = 0, right = n - 1;
         while (left < right) {
             if (nums[left] + nums[right] <= upper) {
