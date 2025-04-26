@@ -836,6 +836,7 @@ Created with :heart:
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -855,6 +856,7 @@ Created with :heart:
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3189-find-champion-ii) |
 ## Shortest Path
@@ -901,6 +903,7 @@ Created with :heart:
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -917,6 +920,7 @@ Created with :heart:
 | [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
 |  |
