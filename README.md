@@ -25,6 +25,7 @@ Created with :heart:
 | [0064-minimum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -347,6 +348,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0018-4sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0368-largest-divisible-subset) |
@@ -463,6 +465,7 @@ Created with :heart:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
