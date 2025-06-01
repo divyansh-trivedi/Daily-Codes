@@ -748,6 +748,7 @@ Created with :heart:
 | [2716-prime-subtraction-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -939,6 +940,7 @@ Created with :heart:
 | ------- |
 | [0062-unique-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1012,4 +1014,5 @@ Created with :heart:
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
