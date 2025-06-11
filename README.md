@@ -349,6 +349,7 @@ Created with :heart:
 | [3451-string-compression-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -659,6 +660,7 @@ Created with :heart:
 | [2691-count-vowel-strings-in-ranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -819,6 +821,7 @@ Created with :heart:
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1021,4 +1024,5 @@ Created with :heart:
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
