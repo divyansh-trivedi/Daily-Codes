@@ -1036,4 +1036,5 @@ Created with :heart:
 | ------- |
 | [1203-print-in-order](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1203-print-in-order) |
 | [1316-fizz-buzz-multithreaded](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1316-fizz-buzz-multithreaded) |
+| [1340-the-dining-philosophers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->
