@@ -1,43 +1,25 @@
 class Foo {
-    private Object lock;
-    private boolean oneDone;
-    private boolean twoDone;
-
+    private Semaphore s2;
+    private Semaphore s3;
+    
     public Foo() {
-        lock = new Object();
-        oneDone =  false;    
-        twoDone = false;
+        s2 = new Semaphore(0);
+        s3 = new Semaphore(0);
     }
 
     public void first(Runnable printFirst) throws InterruptedException {
-        
-        // printFirst.run() outputs "first". Do not change or remove this line.
-        synchronized(lock){
-            printFirst.run();
-            oneDone = true;
-            lock.notifyAll();
-        }
+        printFirst.run();
+        s2.release();
     }
 
     public void second(Runnable printSecond) throws InterruptedException {
-
-        synchronized(lock){
-            while(!oneDone){
-                lock.wait();
-            }
-            printSecond.run();
-            twoDone = true;
-            lock.notifyAll();
-        }
+        s2.acquire();
+        printSecond.run();
+        s3.release();
     }
 
     public void third(Runnable printThird) throws InterruptedException {
-        
-        synchronized(lock){
-            while(!twoDone){
-                lock.wait();
-            }
-            printThird.run();
-        }
+        s3.acquire();
+        printThird.run();
     }
 }
