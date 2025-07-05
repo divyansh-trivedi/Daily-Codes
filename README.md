@@ -1035,4 +1035,5 @@ Created with :heart:
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1203-print-in-order) |
+| [1316-fizz-buzz-multithreaded](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
