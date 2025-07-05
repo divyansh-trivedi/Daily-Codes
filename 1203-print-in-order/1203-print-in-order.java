@@ -1,7 +1,6 @@
 class Foo {
     private Semaphore s2;
     private Semaphore s3;
-    
     public Foo() {
         s2 = new Semaphore(0);
         s3 = new Semaphore(0);
@@ -19,7 +18,7 @@ class Foo {
     }
 
     public void third(Runnable printThird) throws InterruptedException {
-        s3.acquire();
+       s3.acquire();
         printThird.run();
     }
 }
