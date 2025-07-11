@@ -140,6 +140,7 @@ Created with :heart:
 | [2448-count-number-of-bad-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2479-meeting-rooms-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2551-apply-operations-to-an-array) |
@@ -219,6 +220,7 @@ Created with :heart:
 | [2434-design-a-number-container-system](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2586-longest-square-streak-in-an-array) |
@@ -376,6 +378,7 @@ Created with :heart:
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2479-meeting-rooms-iii) |
 | [2554-minimum-total-distance-traveled](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2586-longest-square-streak-in-an-array) |
@@ -407,6 +410,7 @@ Created with :heart:
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2434-design-a-number-container-system](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2479-meeting-rooms-iii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -786,6 +790,7 @@ Created with :heart:
 | [2265-partition-array-according-to-given-pivot](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
+| [2479-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
