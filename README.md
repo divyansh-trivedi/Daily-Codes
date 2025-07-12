@@ -557,6 +557,7 @@ Created with :heart:
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -985,6 +986,7 @@ Created with :heart:
 | ------- |
 | [0070-climbing-stairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Hash Function
 |  |
 | ------- |
