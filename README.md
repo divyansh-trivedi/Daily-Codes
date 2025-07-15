@@ -352,6 +352,7 @@ Created with :heart:
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3396-valid-word](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3455-minimum-length-of-string-after-operations) |
