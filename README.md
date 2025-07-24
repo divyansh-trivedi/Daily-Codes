@@ -765,6 +765,7 @@ Created with :heart:
 | [0592-fraction-addition-and-subtraction](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0797-rabbits-in-forest) |
+| [1070-convert-to-base-2](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1070-convert-to-base-2) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
