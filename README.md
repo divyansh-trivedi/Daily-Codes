@@ -521,6 +521,7 @@ Created with :heart:
 | [0070-climbing-stairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0120-triangle) |
@@ -718,6 +719,7 @@ Created with :heart:
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
@@ -732,12 +734,14 @@ Created with :heart:
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
@@ -761,6 +765,7 @@ Created with :heart:
 | [0048-rotate-image](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0326-power-of-three) |
