@@ -725,12 +725,14 @@ Created with :heart:
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -741,6 +743,7 @@ Created with :heart:
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
@@ -879,6 +882,7 @@ Created with :heart:
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
