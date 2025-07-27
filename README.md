@@ -582,6 +582,7 @@ Created with :heart:
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0225-implement-stack-using-queues) |
@@ -618,6 +619,7 @@ Created with :heart:
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0237-delete-node-in-a-linked-list) |
@@ -729,6 +731,7 @@ Created with :heart:
 | [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -754,6 +757,7 @@ Created with :heart:
 | [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -886,6 +890,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
