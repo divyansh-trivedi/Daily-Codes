@@ -581,6 +581,7 @@ Created with :heart:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0225-implement-stack-using-queues) |
@@ -724,6 +725,7 @@ Created with :heart:
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -748,6 +750,7 @@ Created with :heart:
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -882,6 +885,7 @@ Created with :heart:
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
