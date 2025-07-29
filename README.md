@@ -739,6 +739,7 @@ Created with :heart:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -750,6 +751,7 @@ Created with :heart:
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -764,6 +766,7 @@ Created with :heart:
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0998-check-completeness-of-a-binary-tree) |
