@@ -1,34 +1,31 @@
 class Solution {
-public:
-    bool canPartition(vector<int>& nums) {
-        int sum = 0;
-        for (int num : nums) 
-            sum += num;
-
-        if (sum % 2 != 0) 
-            return false;
-
-        int halfsum = sum / 2;
+private:
+    bool solve(vector<int>& nums, int k){
         int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(k+1));
+        
+        for(int i=0;i<n;i++)dp[i][0] = true;
+        // dp[0][nums[0]] = true;
 
-        vector<vector<bool>> dp(n + 1, vector<bool>(halfsum + 1, false));
+        for(int idx =1;idx<n;idx++){
+            for(int tar=1;tar<=k;tar++){
+                bool  nt = dp[idx-1][tar];
+                bool t = false;
+                if(nums[idx]<=tar)
+                t = dp[idx-1][tar-nums[idx]];
 
-        // Base cases
-        for (int i = 0; i <= n; i++) 
-            dp[i][0] = true; // sum = 0 is achievable with any number of items
-
-        for (int i = 1; i <= n; i++) {
-            for (int s = 1; s <= halfsum; s++) {
-                if (nums[i - 1] > s) {
-                    // If the current number is greater than the target sum, it cannot be included
-                    dp[i][s] = dp[i - 1][s];
-                } else {
-                    // Either include the number or don't
-                    dp[i][s] = dp[i - 1][s] || dp[i - 1][s - nums[i - 1]];
-                }
+                dp[idx][tar] = t | nt;
             }
         }
+        return dp[n-1][k];
+    }
+public:
+    bool canPartition(vector<int>& nums) {
+        int sum=0;
+        for(auto i : nums)
+        sum += i;
 
-        return dp[n][halfsum];
+        if(sum%2!=0)return false;
+        return solve(nums, sum/2);
     }
 };
