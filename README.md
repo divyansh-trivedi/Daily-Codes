@@ -744,6 +744,7 @@ Created with :heart:
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -778,6 +779,7 @@ Created with :heart:
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -921,6 +923,7 @@ Created with :heart:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
@@ -990,6 +993,7 @@ Created with :heart:
 | [0542-01-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
