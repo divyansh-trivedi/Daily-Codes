@@ -558,6 +558,7 @@ Created with :heart:
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0826-soup-servings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1025-minimum-cost-for-tickets) |
@@ -813,6 +814,7 @@ Created with :heart:
 | [0592-fraction-addition-and-subtraction](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0826-soup-servings) |
 | [1070-convert-to-base-2](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1070-convert-to-base-2) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
@@ -1128,4 +1130,8 @@ Created with :heart:
 | [1216-print-zero-even-odd](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1216-print-zero-even-odd) |
 | [1316-fizz-buzz-multithreaded](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1340-the-dining-philosophers) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
