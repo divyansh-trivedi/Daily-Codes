@@ -1,17 +1,15 @@
 class Solution {
 public:
     vector<int> occurrencesOfElement(vector<int>& nums, vector<int>& queries, int x) {
-        vector<int> idx;
+        vector<int> pos;
+        for (int i = 0; i < nums.size(); ++i)
+            if (nums[i] == x)
+                pos.push_back(i);
 
-        for(int i=0;i<nums.size();i++){
-            if(nums[i] == x)
-            idx.push_back(i);
-        }
+        vector<int> ans;
+        for (int q : queries)
+            ans.push_back(q <= pos.size() ? pos[q - 1] : -1);
 
-        vector<int> temp;
-        for(int i: queries)
-            temp.push_back(i>idx.size() ? -1 : idx[i-1]);
-
-        return temp;
+        return ans;
     }
 };
