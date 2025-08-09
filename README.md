@@ -176,6 +176,7 @@ Created with :heart:
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3427-special-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3430-count-days-without-meetings) |
@@ -244,6 +245,7 @@ Created with :heart:
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
