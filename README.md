@@ -167,6 +167,7 @@ Created with :heart:
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2808-painting-the-walls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2808-painting-the-walls) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -586,6 +587,7 @@ Created with :heart:
 | [2586-longest-square-streak-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2808-painting-the-walls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2808-painting-the-walls) |
 ## Stack
 |  |
 | ------- |
