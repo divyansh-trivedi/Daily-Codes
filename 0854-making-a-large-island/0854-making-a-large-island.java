@@ -31,7 +31,6 @@ class Disjoint {
     public int largestIsland(int[][] grid) {
         int n = grid.length;
         Disjoint ds = new Disjoint (n*n);
-
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 0)continue;
@@ -45,34 +44,27 @@ class Disjoint {
                     if(newr>=0&&newc>=0&&newr<n&&newc<n  && grid[newr][newc] == 1){
                         int nodeNo = i*n + j;
                         int newNodeNo = newr*n + newc;
-
                         ds.unionBySize(nodeNo , newNodeNo);
                     }
                 }
             }
         }
-
         int max = 0;
-
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 1) continue;
                 Set<Integer> components = new HashSet<>();
-
                 int dr[] = {-1,0,1,0};
                 int dc[] ={0,1,0,-1};
-
                 for(int k=0;k<4;k++){
                     int newr = i+dr[k];
                     int newc = j + dc[k];
-
                     if(newr>=0&&newc>=0&&newr<n&&newc<n ){
                         if(grid[newr][newc] == 1)
                         components.add(ds.findParent(newr*n+newc));
                     }
                 }
                 int total_size = 0;
-                
                 for(Integer it : components){
                     total_size += ds.size.get(it);
                 }
