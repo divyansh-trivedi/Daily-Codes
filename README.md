@@ -93,6 +93,7 @@ Created with :heart:
 | [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1364-tuple-with-same-product](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -286,6 +287,7 @@ Created with :heart:
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1753-path-with-minimum-effort) |
@@ -574,6 +576,7 @@ Created with :heart:
 | [1170-shortest-common-supersequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1559-cherry-pickup-ii) |
