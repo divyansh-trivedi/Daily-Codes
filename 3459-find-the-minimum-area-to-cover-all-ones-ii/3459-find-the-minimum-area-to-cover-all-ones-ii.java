@@ -39,7 +39,6 @@ class Solution {
                     minimumSum2(grid, 0, i, 0, m - 1) +
                     minimumSum2(grid, i + 1, j, 0, m - 1) +
                     minimumSum2(grid, j + 1, n - 1, 0, m - 1)
-                
                 );
             }
         }
