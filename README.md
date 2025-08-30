@@ -17,6 +17,7 @@ Created with :heart:
 | [0031-next-permutation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0041-first-missing-positive) |
@@ -198,6 +199,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
@@ -272,6 +274,7 @@ Created with :heart:
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0063-unique-paths-ii) |
