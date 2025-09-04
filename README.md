@@ -862,6 +862,7 @@ Created with :heart:
 | [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
