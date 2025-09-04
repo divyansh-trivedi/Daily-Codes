@@ -2,7 +2,6 @@ class Solution {
 public:
     int numberOfPairs(vector<vector<int>>& points) {
         int n = points.size();
-
         // Sort: x ascending, if x same then sort as y descending
         auto lambda = [](vector<int>& point1, vector<int>& point2) {
             if (point1[0] == point2[0]) {
