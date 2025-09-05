@@ -913,6 +913,7 @@ Created with :heart:
 | [2533-bitwise-xor-of-all-pairings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3394-minimum-array-end) |
@@ -1089,6 +1090,7 @@ Created with :heart:
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -1154,6 +1156,7 @@ Created with :heart:
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
