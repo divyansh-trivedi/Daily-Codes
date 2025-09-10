@@ -4,4 +4,3 @@ public:
         return multiset<char>(s.begin(), s.end()) == multiset<char>(t.begin(), t.end());
     }
 };
- auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
