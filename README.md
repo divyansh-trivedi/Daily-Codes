@@ -12,6 +12,7 @@ Created with :heart:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0031-next-permutation) |
@@ -202,6 +203,7 @@ Created with :heart:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
