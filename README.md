@@ -213,6 +213,7 @@ Created with :heart:
 | [0142-linked-list-cycle-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
@@ -340,6 +341,7 @@ Created with :heart:
 | [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0402-remove-k-digits) |
@@ -402,6 +404,7 @@ Created with :heart:
 | [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0435-non-overlapping-intervals) |
