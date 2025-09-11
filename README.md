@@ -24,6 +24,7 @@ Created with :heart:
 | [0041-first-missing-positive](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
@@ -208,6 +209,7 @@ Created with :heart:
 | [0036-valid-sudoku](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0127-word-ladder) |
@@ -333,6 +335,7 @@ Created with :heart:
 | [0010-regular-expression-matching](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0097-interleaving-string) |
@@ -402,6 +405,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0018-4sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
