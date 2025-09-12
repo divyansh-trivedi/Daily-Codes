@@ -5,9 +5,7 @@ public:
         int maxWater = 0;
 
         while(left < right){
-            int width = right-left;
-            int currWater = width*(min(height[left], height[right]));
-            maxWater = max(currWater, maxWater);
+            maxWater = max(maxWater, (right-left) * min(height[left], height[right]));
 
             if(height[left]<height[right])left++;
             else right--;
