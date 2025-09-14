@@ -87,6 +87,7 @@ Created with :heart:
 | [0952-word-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0967-minimum-falling-path-sum) |
+| [1006-vowel-spellchecker](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -233,6 +234,7 @@ Created with :heart:
 | [0920-uncommon-words-from-two-sentences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1006-vowel-spellchecker](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1256-rank-transform-of-an-array) |
@@ -362,6 +364,7 @@ Created with :heart:
 | [0812-rotate-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1006-vowel-spellchecker) |
 | [1170-shortest-common-supersequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
