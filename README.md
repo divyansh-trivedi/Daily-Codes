@@ -222,6 +222,7 @@ Created with :heart:
 | [0217-contains-duplicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0567-permutation-in-string) |
@@ -354,6 +355,7 @@ Created with :heart:
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0564-find-the-closest-palindrome) |
@@ -953,6 +955,7 @@ Created with :heart:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
