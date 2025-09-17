@@ -1,20 +1,21 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        vector<int> count(26, 0);
-        int left = 0, maxCount = 0, res = 0;
-
-        for (int right = 0; right < s.size(); right++) {
-            count[s[right] - 'A']++;
-            maxCount = max(maxCount, count[s[right] - 'A']);
-
-            while ((right - left + 1) - maxCount > k) {
-                count[s[left] - 'A']--;
+        vector<int> hash(26,0);
+        int left =0;
+        int maxFreq = 0;
+        int maxWindow = 0;
+        for(int right =0 ;right<s.size();right++){
+            hash[s[right] -'A']++;
+            maxFreq = max(maxFreq,hash[s[right]-'A']);
+            int windowSize = right-left+1;
+            if(windowSize - maxFreq > k){
+                hash[s[left]-'A']--;
                 left++;
             }
-
-            res = max(res, right - left + 1);
+            windowSize = right-left+1;
+            maxWindow = max(maxWindow,windowSize);
         }
-        return res;
+        return maxWindow;
     }
 };
