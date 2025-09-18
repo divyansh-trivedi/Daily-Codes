@@ -1,41 +1,37 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if (t.size() > s.size() || t.empty()) {
-            return "";
-        }
+        int n = s.size();
+        if(t.length() > n)return "";
 
-        vector<int> map(128, 0);
-        for (char c : t) {
-            map[c]++;
-        }
+        unordered_map<char, int> mp;
 
-        int left = 0;
-        int min_len = -1;
-        int start_index = -1;
-        int required = t.length();
+        for(char &ch : t)mp[ch]++;
 
-        for (int right = 0; right < s.size(); right++) {
-            if (map[s[right]] > 0) {
-                required--;
-            }
-            map[s[right]]--;
+        int cnt = t.size();
+        int i = 0, j = 0;
 
-            while (required == 0) {
-                if (min_len == -1 || right - left + 1 < min_len) {
-                    min_len = right - left + 1;
-                    start_index = left;
+        int minWindowSize = INT_MAX;
+        int start_i = 0;
+
+        while(j < n){
+            char ch = s[j];
+            if(mp[ch] > 0) cnt--;
+            mp[ch]--;
+
+            while(cnt == 0){
+                int currWindowSize = j-i+1;
+                if(minWindowSize > currWindowSize){
+                    minWindowSize = currWindowSize;
+                    start_i = i;
                 }
+                mp[s[i]]++;
 
-                map[s[left]]++;
-                if (map[s[left]] > 0) {
-                    required++;
-                }
-                
-                left++;
+                if(mp[s[i]] > 0)cnt++;
+                i++;
             }
+            j++;
         }
-
-        return (start_index == -1) ? "" : s.substr(start_index, min_len);
+        return minWindowSize == INT_MAX ? "" : s.substr(start_i,minWindowSize);
     }
 };
