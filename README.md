@@ -51,6 +51,7 @@ Created with :heart:
 | [0238-product-of-array-except-self](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0312-burst-balloons) |
@@ -223,6 +224,7 @@ Created with :heart:
 | [0217-contains-duplicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
@@ -421,6 +423,7 @@ Created with :heart:
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0435-non-overlapping-intervals) |
@@ -509,6 +512,7 @@ Created with :heart:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
@@ -868,6 +872,7 @@ Created with :heart:
 | [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0390-elimination-game) |
@@ -929,6 +934,7 @@ Created with :heart:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
