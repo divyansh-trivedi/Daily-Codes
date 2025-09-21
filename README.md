@@ -594,6 +594,7 @@ Created with :heart:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0213-house-robber-ii) |
@@ -806,6 +807,7 @@ Created with :heart:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
@@ -841,6 +843,7 @@ Created with :heart:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
@@ -992,6 +995,7 @@ Created with :heart:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
