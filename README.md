@@ -71,6 +71,7 @@ Created with :heart:
 | [0540-single-element-in-a-sorted-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0624-maximum-distance-in-arrays) |
+| [0648-replace-words](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0648-replace-words) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -229,6 +230,7 @@ Created with :heart:
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0797-rabbits-in-forest) |
@@ -365,6 +367,7 @@ Created with :heart:
 | [0564-find-the-closest-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0592-fraction-addition-and-subtraction) |
+| [0648-replace-words](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0648-replace-words) |
 | [0664-strange-printer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0812-rotate-string) |
@@ -1168,6 +1171,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0648-replace-words](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0648-replace-words) |
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
