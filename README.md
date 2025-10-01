@@ -290,6 +290,7 @@ Created with :heart:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0257-binary-tree-paths) |
@@ -348,6 +349,7 @@ Created with :heart:
 | [0008-string-to-integer-atoi](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0072-edit-distance) |
@@ -593,6 +595,7 @@ Created with :heart:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0063-unique-paths-ii) |
