@@ -4,7 +4,7 @@ public:
         int empty = full;
         int sum = full;
         full = 0;
-        while (empty >= ne) {
+        while(empty >= ne){
             empty -= ne;
             full = 1;
             ne++;
