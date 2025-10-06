@@ -81,6 +81,7 @@ Created with :heart:
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
@@ -317,6 +318,7 @@ Created with :heart:
 | [0417-pacific-atlantic-water-flow](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
@@ -478,6 +480,7 @@ Created with :heart:
 | [0407-trapping-rain-water-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1304-longest-happy-string) |
@@ -535,6 +538,7 @@ Created with :heart:
 | [0719-find-k-th-smallest-pair-distance](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1039,6 +1043,7 @@ Created with :heart:
 | [0662-maximum-width-of-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
@@ -1111,6 +1116,7 @@ Created with :heart:
 | [0662-maximum-width-of-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0820-find-eventual-safe-states) |
@@ -1143,6 +1149,7 @@ Created with :heart:
 | [0200-number-of-islands](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
