@@ -198,6 +198,7 @@ Created with :heart:
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3427-special-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3429-special-array-i) |
@@ -788,6 +789,7 @@ Created with :heart:
 | [2145-grid-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
