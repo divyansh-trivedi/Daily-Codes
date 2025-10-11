@@ -1,38 +1,32 @@
 class Solution {
 public:
-    long long dp[100005];
-    long long solve(vector<pair<int,int>>&nums,int idx){
-        if(idx>=nums.size()) return 0;
-
-        if(dp[idx]!=-1) return dp[idx];
-
-        long long take = 0,skip = 0;
-
-        int j = idx+1;
-        while(j<nums.size()){
-            if(nums[j].first!=nums[idx].first+1 && nums[j].first!=nums[idx].first+2) break;
-            j++;
-        }
-        take = 1LL*nums[idx].first*nums[idx].second + solve(nums,j);
-        skip = solve(nums,idx+1);
-
-        return dp[idx] = max(take,skip);
-    }
-    long long maximumTotalDamage(vector<int>& power) {
-        
+    long long solve(vector<int>& power, int ind, vector<long long>& dp) {
         int n = power.size();
-        map<int,int>mp;
-        for(auto &it:power) mp[it]++;
-        
-        vector<pair<int,int>>nums;
-        for(auto &it:mp){
-          nums.push_back({it.first,it.second});
-        }
+        if (ind >= n) return 0;
+        if (dp[ind] != -1) return dp[ind];
 
-        sort(nums.begin(),nums.end());
+        int val = power[ind];
+        long long total = 0;
+        int i = ind;
+
+        while (i < n && power[i] == val) {
+            total += power[i];
+            i++;
+        }
         
-        memset(dp,-1,sizeof(dp));
-        
-        return solve(nums,0);
+        int nextIndex = upper_bound(power.begin(), power.end(), val + 2) - power.begin();
+
+        // take option
+        long long take = total + solve(power, nextIndex, dp);
+        // skip option
+        long long notTake = solve(power, i, dp);
+
+        return dp[ind] = max(take, notTake);
+    }
+
+    long long maximumTotalDamage(vector<int>& power) {
+        sort(power.begin(), power.end());
+        vector<long long> dp(power.size(), -1);
+        return solve(power, 0, dp);
     }
 };
