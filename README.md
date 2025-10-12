@@ -213,6 +213,7 @@ Created with :heart:
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3748-sort-matrix-by-diagonals) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -677,6 +678,7 @@ Created with :heart:
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2808-painting-the-walls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -944,6 +946,7 @@ Created with :heart:
 | [3462-vowels-game-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -1002,6 +1005,7 @@ Created with :heart:
 | [3394-minimum-array-end](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1177,6 +1181,7 @@ Created with :heart:
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
 |  |
 | ------- |
@@ -1252,6 +1257,7 @@ Created with :heart:
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
