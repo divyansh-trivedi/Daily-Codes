@@ -423,6 +423,7 @@ Created with :heart:
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -680,6 +681,7 @@ Created with :heart:
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2808-painting-the-walls) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
@@ -1003,6 +1005,7 @@ Created with :heart:
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3394-minimum-array-end) |
@@ -1260,6 +1263,7 @@ Created with :heart:
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
