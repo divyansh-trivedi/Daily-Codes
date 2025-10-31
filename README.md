@@ -156,6 +156,7 @@ Created with :heart:
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -347,6 +348,7 @@ Created with :heart:
 | [2089-maximum-matrix-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2685-first-completely-painted-row-or-column) |
@@ -419,6 +421,7 @@ Created with :heart:
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2580-circular-sentence) |
@@ -949,6 +952,7 @@ Created with :heart:
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2155-find-missing-observations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2649-count-total-number-of-colored-cells) |
