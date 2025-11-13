@@ -224,6 +224,7 @@ Created with :heart:
 | [3748-sort-matrix-by-diagonals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -365,6 +366,7 @@ Created with :heart:
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3748-sort-matrix-by-diagonals) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3986-maximum-path-score-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -707,6 +709,7 @@ Created with :heart:
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
 | ------- |
