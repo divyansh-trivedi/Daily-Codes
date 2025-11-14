@@ -226,6 +226,7 @@ Created with :heart:
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Created with :heart:
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -553,6 +555,7 @@ Created with :heart:
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -759,6 +762,7 @@ Created with :heart:
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -845,6 +849,7 @@ Created with :heart:
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1290,6 +1295,7 @@ Created with :heart:
 | ------- |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1344,4 +1350,8 @@ Created with :heart:
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
