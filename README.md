@@ -178,6 +178,7 @@ Created with :heart:
 | [2586-longest-square-streak-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -359,6 +360,7 @@ Created with :heart:
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
+| [2625-increment-submatrices-by-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -836,6 +838,7 @@ Created with :heart:
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2358-number-of-ways-to-split-array) |
+| [2625-increment-submatrices-by-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3427-special-array-ii) |
