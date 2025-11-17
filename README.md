@@ -662,6 +662,7 @@ Created with :heart:
 | [0132-palindrome-partitioning-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0300-longest-increasing-subsequence) |
@@ -786,6 +787,7 @@ Created with :heart:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0233-number-of-digit-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0390-elimination-game) |
@@ -960,6 +962,7 @@ Created with :heart:
 | [0062-unique-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
+| [0233-number-of-digit-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
