@@ -446,6 +446,7 @@ Created with :heart:
 | [2691-count-vowel-strings-in-ranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
+| [2757-count-of-integers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2757-count-of-integers) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -717,6 +718,7 @@ Created with :heart:
 | [2562-count-ways-to-build-good-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
+| [2757-count-of-integers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2757-count-of-integers) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2808-painting-the-walls) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -999,6 +1001,7 @@ Created with :heart:
 | [2448-count-number-of-bad-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2716-prime-subtraction-operation) |
+| [2757-count-of-integers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2757-count-of-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
