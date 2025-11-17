@@ -687,6 +687,7 @@ Created with :heart:
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1025-minimum-cost-for-tickets) |
+| [1057-numbers-with-repeated-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1057-numbers-with-repeated-digits) |
 | [1121-partition-array-for-maximum-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1170-shortest-common-supersequence) |
@@ -975,6 +976,7 @@ Created with :heart:
 | [0650-2-keys-keyboard](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0826-soup-servings) |
+| [1057-numbers-with-repeated-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1057-numbers-with-repeated-digits) |
 | [1070-convert-to-base-2](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1070-convert-to-base-2) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
