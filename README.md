@@ -196,6 +196,7 @@ Created with :heart:
 | [2808-painting-the-walls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2808-painting-the-walls) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -532,6 +533,7 @@ Created with :heart:
 | [2479-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2479-meeting-rooms-iii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -604,6 +606,7 @@ Created with :heart:
 | [2699-count-the-number-of-fair-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3427-special-array-ii) |
@@ -749,6 +752,7 @@ Created with :heart:
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3447-clear-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -764,6 +768,7 @@ Created with :heart:
 | [1628-count-submatrices-with-all-ones](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
@@ -1316,6 +1321,7 @@ Created with :heart:
 | [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
@@ -1380,4 +1386,5 @@ Created with :heart:
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
