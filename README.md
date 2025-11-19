@@ -53,6 +53,7 @@ Created with :heart:
 | [0240-search-a-2d-matrix-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0322-coin-change) |
@@ -771,6 +772,7 @@ Created with :heart:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -873,6 +875,7 @@ Created with :heart:
 | [0225-implement-stack-using-queues](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1310,6 +1313,7 @@ Created with :heart:
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -1372,4 +1376,8 @@ Created with :heart:
 |  |
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
