@@ -95,6 +95,7 @@ Created with :heart:
 | [0954-maximum-sum-circular-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1006-vowel-spellchecker) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1061,6 +1062,7 @@ Created with :heart:
 | ------- |
 | [0268-missing-number](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0476-number-complement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
