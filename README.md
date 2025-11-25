@@ -266,6 +266,7 @@ Created with :heart:
 | [0952-word-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -992,6 +993,7 @@ Created with :heart:
 | [0797-rabbits-in-forest](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0826-soup-servings) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1057-numbers-with-repeated-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1057-numbers-with-repeated-digits) |
 | [1070-convert-to-base-2](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1070-convert-to-base-2) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
