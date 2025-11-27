@@ -1,21 +1,26 @@
 class Solution {
-int n, m;
-vector<vector<vector<int>>> dp;
-const int MOD = 1e9+7; 
-private:
-    int solve(vector<vector<int>>& grid, int k, int i, int j, int sum){
-        if(i == n-1 && j == m-1)
-            return (sum + grid[i][j])%k == 0;
-        if(i == n || j == m)return 0;
-        if(dp[i][j][sum] != -1)return dp[i][j][sum];
-
-        return dp[i][j][sum] = (solve(grid, k, i+1, j, (sum+grid[i][j])%k) 
-                            + solve(grid, k, i, j+1,( sum+grid[i][j])%k)) % MOD;
-    }
 public:
     int numberOfPaths(vector<vector<int>>& grid, int k) {
-        n = grid.size() , m =grid[0].size();
-        dp.assign(n, vector<vector<int>>(m, vector<int>(k, -1)));
-        return solve(grid, k,0,0,0);
+        int n = grid.size();
+        int m = grid[0].size();
+        
+        int dp[n][m][k];
+        memset(dp, 0, sizeof(dp));
+        
+        dp[0][0][grid[0][0] % k] = 1;
+        
+        int mod = 1e9 + 7;
+        
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                for(int K = 0; K < k; K++) {
+                    int sum = (K + grid[i][j]) % k;
+                    if(i) dp[i][j][sum] += dp[i - 1][j][K] % mod;
+                    if(j) dp[i][j][sum] += dp[i][j - 1][K] % mod;
+                }
+            }
+        }
+        
+        return dp[n - 1][m - 1][0] % mod;
     }
 };
