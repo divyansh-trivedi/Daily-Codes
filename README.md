@@ -218,6 +218,7 @@ Created with :heart:
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1023,6 +1024,7 @@ Created with :heart:
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3676-smallest-number-with-all-set-bits) |
