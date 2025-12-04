@@ -935,6 +935,7 @@ Created with :heart:
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1173,6 +1174,7 @@ Created with :heart:
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
 | ------- |
