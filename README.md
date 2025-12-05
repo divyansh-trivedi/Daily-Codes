@@ -233,6 +233,7 @@ Created with :heart:
 | [3625-count-number-of-trapezoids-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3748-sort-matrix-by-diagonals) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3986-maximum-path-score-in-a-grid) |
@@ -321,6 +322,7 @@ Created with :heart:
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Backtracking
@@ -882,6 +884,7 @@ Created with :heart:
 | [3432-count-partitions-with-even-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Quickselect
@@ -1108,6 +1111,7 @@ Created with :heart:
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
