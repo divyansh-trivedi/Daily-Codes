@@ -226,6 +226,7 @@ Created with :heart:
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -321,6 +322,7 @@ Created with :heart:
 | [3531-count-covered-buildings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3623-count-number-of-trapezoids-i) |
@@ -479,6 +481,7 @@ Created with :heart:
 | [3462-vowels-game-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3606-coupon-code-validator) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -526,6 +529,7 @@ Created with :heart:
 | [3430-count-days-without-meetings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
