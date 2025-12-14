@@ -454,6 +454,7 @@ Created with :heart:
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2232-adding-spaces-to-a-string) |
@@ -739,6 +740,7 @@ Created with :heart:
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1032,6 +1034,7 @@ Created with :heart:
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
