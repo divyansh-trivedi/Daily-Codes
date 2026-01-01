@@ -28,6 +28,7 @@ Created with :heart:
 | [0049-group-anagrams](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0075-sort-colors) |
@@ -1023,6 +1024,7 @@ Created with :heart:
 | [0043-multiply-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0233-number-of-digit-one) |
