@@ -973,6 +973,7 @@ Created with :heart:
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1010,6 +1011,7 @@ Created with :heart:
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1210,6 +1212,7 @@ Created with :heart:
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1484-linked-list-in-binary-tree) |
@@ -1288,6 +1291,7 @@ Created with :heart:
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
