@@ -205,6 +205,7 @@ Created with :heart:
 | [2808-painting-the-walls](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2808-painting-the-walls) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -318,6 +319,7 @@ Created with :heart:
 | [2755-extra-characters-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1438,6 +1440,7 @@ Created with :heart:
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
