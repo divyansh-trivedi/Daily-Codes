@@ -213,6 +213,7 @@ Created with :heart:
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1153,6 +1154,7 @@ Created with :heart:
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
