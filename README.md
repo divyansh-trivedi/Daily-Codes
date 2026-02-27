@@ -501,6 +501,7 @@ Created with :heart:
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3606-coupon-code-validator) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1095,6 +1096,7 @@ Created with :heart:
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3830-find-closest-person) |
@@ -1328,6 +1330,7 @@ Created with :heart:
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2793-count-the-number-of-complete-components) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -1424,6 +1427,7 @@ Created with :heart:
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2434-design-a-number-container-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1485,4 +1489,8 @@ Created with :heart:
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
