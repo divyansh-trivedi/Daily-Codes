@@ -207,6 +207,7 @@ Created with :heart:
 | [2888-minimum-index-of-a-valid-split](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -545,6 +546,7 @@ Created with :heart:
 | [2699-count-the-number-of-fair-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1456,6 +1458,7 @@ Created with :heart:
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
