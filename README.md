@@ -213,6 +213,7 @@ Created with :heart:
 | [3227-find-missing-and-repeated-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -583,6 +584,7 @@ Created with :heart:
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2803-modify-graph-edge-weights) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -662,6 +664,7 @@ Created with :heart:
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3453-separate-squares-i) |
@@ -901,6 +904,7 @@ Created with :heart:
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1089,6 +1093,7 @@ Created with :heart:
 | [3201-distribute-candies-among-children-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3462-vowels-game-in-a-string) |
