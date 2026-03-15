@@ -961,6 +961,7 @@ Created with :heart:
 | [0937-online-stock-span](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1622-fancy-sequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1622-fancy-sequence) |
 | [2434-design-a-number-container-system](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -1075,6 +1076,7 @@ Created with :heart:
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -1424,6 +1426,7 @@ Created with :heart:
 | [0307-range-sum-query-mutable](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
+| [1622-fancy-sequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1622-fancy-sequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Ordered Set
