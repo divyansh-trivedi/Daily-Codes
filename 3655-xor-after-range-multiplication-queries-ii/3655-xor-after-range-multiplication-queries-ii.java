@@ -1,78 +1,104 @@
+typedef long long ll;
+
 class Solution {
-    private static final int MOD = 1_000_000_007;
+public:
+    static constexpr long long MOD = (int)(1e9 + 7);
 
-    private long power(long base, long exp) {
-        long res = 1;
-        base %= MOD;
-        while (exp > 0) {
-            if ((exp & 1) == 1) res = (res * base) % MOD;
-            base = (base * base) % MOD;
-            exp >>= 1;
+    // fast modular exponentiation: a^e mod m
+    long long mod_pow(long long a, long long e, long long m = MOD) {
+        a %= m;
+        if (a < 0) a += m;
+        long long r = 1 % m;
+        while (e > 0) {
+            if (e & 1) r = (r * a) % m;
+            a = (a * a) % m;
+            e >>= 1;
         }
-        return res;
+        return r;
     }
 
-    private long modInv(long n) {
-        return power(n, MOD - 2);
+    // modular inverse: a^{-1} mod m (m must be prime and a != 0 mod m)
+    long long mod_inv(long long a, long long m = MOD) {
+        a %= m;
+        if (a < 0) a += m;
+        return mod_pow(a, m - 2, m);
     }
 
-    public int xorAfterQueries(int[] nums, int[][] queries) {
-        int n = nums.length;
-        int limit = (int) Math.sqrt(n);
+    bool same(vector<int>& q, int k, int lm)
+    {
+        return q[2] == k && ((q[0] % k) == lm); 
+    }
+
+    int xorAfterQueries(vector<int>& nums1, vector<vector<int>>& qs) {
+        sort(qs.begin(), qs.end(), [](const vector<int>& a, const vector<int>& b){
+            int ka = a[2];
+            int kb = b[2];
+            if (ka != kb) return ka < kb;
+            int la = a[0] % ka;
+            int lb = b[0] % kb;
+            return la < lb;
+        });
+
+        int m = qs.size();
+        int i = 0;
+        int n = nums1.size();
+        vector<ll> nums(n);
+        for (int i = 0; i < n; i++) nums[i] = nums1[i];
+        vector<ll> dp(n, 1);
+        int nq = sqrt(n);
+
+        while (i < m)
+        {
+            auto& cur = qs[i];
+            int k = cur[2];
+            if (k > nq)
+            {
+                for (int j = cur[0]; j <= cur[1]; j += k)
+                {
+                    nums[j] = nums[j] * (ll)(cur[3]) % MOD;
+                }
+                i++;
+                continue;
+            }
+            int lm = cur[0] % k;
+            int j = i + 1;
+           
+            while (j < m && same(qs[j], k, lm))
+            {
+                j++;
+            }
+            for (int x = i; x < j; x++)
+            {
+                auto& q = qs[x];
+                int l = q[0];
+                int r = q[1];
+                int v = q[3];
+                dp[l] = dp[l] * v % MOD;
+                int e = l + ((r - l)/k + 1) * k;
+                if (e < n)
+                {
+                    dp[e] = dp[e] * mod_inv(v) % MOD;
+                }
+            }
+            ll pre = 1;
+            for (int x = lm; x < n; x += k)
+            {
+                dp[x] = dp[x] * pre % MOD;
+                pre = dp[x];
+
+                nums[x] = nums[x] * dp[x] % MOD;
+                dp[x] = 1;
+            }
+            i = j;
+        }
+
+        ll cur = nums[0];
+        for (int i = 1; i < n; i++)
+        {
+            cur = cur ^ nums[i];
+        }
+        return cur;
+
         
-        // Group queries with small k for later processing
-        Map<Integer, List<int[]>> lightK = new HashMap<>();
-
-        for (int[] q : queries) {
-            int l = q[0], r = q[1], k = q[2], v = q[3];
-            
-            if (k >= limit) { 
-                // Large k: apply brute force
-                for (int i = l; i <= r; i += k) {
-                    nums[i] = (int) ((1L * nums[i] * v) % MOD);
-                }
-            } else { 
-                // Small k: process later
-                lightK.computeIfAbsent(k, x -> new ArrayList<>()).add(q);
-            }
-        }
-
-        for (Map.Entry<Integer, List<int[]>> entry : lightK.entrySet()) {
-            int k = entry.getKey();
-            List<int[]> queryList = entry.getValue();
-            
-            // Process small queries grouped by step size k
-            long[] diff = new long[n];
-            Arrays.fill(diff, 1L);
-            
-            for (int[] q : queryList) {
-                int l = q[0], r = q[1], v = q[3];
-                
-                // Multiply starting position
-                diff[l] = (diff[l] * v) % MOD;
-                
-                // Cancel the multiplication using modular inverse
-                int steps = (r - l) / k;
-                int next = l + (steps + 1) * k;
-                if (next < n) {
-                    diff[next] = (diff[next] * modInv(v)) % MOD;
-                }
-            }
-            
-            // Propagate the multipliers with a step size of k
-            for (int i = 0; i < n; i++) {
-                if (i >= k) {
-                    diff[i] = (diff[i] * diff[i - k]) % MOD;
-                }
-                nums[i] = (int) ((1L * nums[i] * diff[i]) % MOD);
-            }
-        }
-
-        int ans = 0;
-        for (int num : nums) {
-            ans ^= num;
-        }
-
-        return ans;
     }
-}
+};
