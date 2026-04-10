@@ -249,6 +249,7 @@ Created with :heart:
 | [3623-count-number-of-trapezoids-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -345,6 +346,7 @@ Created with :heart:
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/4074-count-subarrays-with-majority-element-i) |
