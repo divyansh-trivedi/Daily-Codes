@@ -177,6 +177,7 @@ Created with :heart:
 | [2411-spiral-matrix-iv](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2448-count-number-of-bad-pairs) |
+| [2463-minimum-total-distance-traveled](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2479-meeting-rooms-iii) |
@@ -543,6 +544,7 @@ Created with :heart:
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2479-meeting-rooms-iii) |
 | [2554-minimum-total-distance-traveled](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2554-minimum-total-distance-traveled) |
@@ -786,6 +788,7 @@ Created with :heart:
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2463-minimum-total-distance-traveled) |
 | [2554-minimum-total-distance-traveled](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/2586-longest-square-streak-in-an-array) |
