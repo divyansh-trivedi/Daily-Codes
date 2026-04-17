@@ -431,6 +431,7 @@ Created with :heart:
 | [0091-decode-ways](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0151-reverse-words-in-a-string) |
@@ -686,6 +687,7 @@ Created with :heart:
 | [0031-next-permutation](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0165-compare-version-numbers) |
