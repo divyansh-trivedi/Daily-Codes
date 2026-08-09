@@ -105,6 +105,7 @@ Created with :heart:
 | [1073-number-of-enclaves](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
@@ -771,6 +772,7 @@ Created with :heart:
 | [1057-numbers-with-repeated-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1057-numbers-with-repeated-digits) |
 | [1121-partition-array-for-maximum-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1250-longest-common-subsequence) |
@@ -933,6 +935,7 @@ Created with :heart:
 | [0410-split-array-largest-sum](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1140-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1435-xor-queries-of-a-subarray](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1089,6 +1092,7 @@ Created with :heart:
 | [1015-smallest-integer-divisible-by-k](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1057-numbers-with-repeated-digits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1057-numbers-with-repeated-digits) |
 | [1070-convert-to-base-2](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1070-convert-to-base-2) |
+| [1140-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [1326-sum-of-floored-pairs](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1326-sum-of-floored-pairs) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1163,6 +1167,7 @@ Created with :heart:
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1240-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
@@ -1525,4 +1530,12 @@ Created with :heart:
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
