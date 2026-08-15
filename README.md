@@ -252,6 +252,7 @@ Created with :heart:
 | [3623-count-number-of-trapezoids-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1201,6 +1202,7 @@ Created with :heart:
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/divyansh-trivedi/Daily-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
